@@ -680,32 +680,38 @@
 @media only screen and (max-width: 600px) {
  
   .tipp .container-2 {
-    margin-left: 10rem;
-    width: 12rem;
+    margin-left: 0.1rem;
+    margin-top: 7rem;
+    width: 10rem;
 
   }
   .tipp .coming-soon {
-    font-size: 1.2rem;
+    font-size: 0.8rem;
   }
 
   .tipp .image-3 {
+    margin-bottom: auto;
     margin-right: 5rem;
     margin: 0 1.1rem 0.3rem 0;
-    width: 7.2rem;
-    height: 3.5rem;
+    width: 9rem;
+    height: 4.5rem;
   }
   .tipp .join-tipping-revolution {
-    font-size: 4.5rem;
+    font-size: 3rem;
   }
+  .tipp .welcome-to-tipp {
+    margin-bottom: 0rem;
+  }
+
   
   .tipp .now-reward-your {
-    font-size: 1rem;
+    font-size: 0.7rem;
   }
   .tipp .image-1 {
     background: url('../assets/images/image_1.png') 50% / cover no-repeat;
-    width: 22rem;
-    margin-left: -39rem;
-    height: 29rem;
-    margin-top: 30rem;
+    width: 15rem;
+    margin-left: -31.7rem;
+    height: 22rem;
+    margin-top: 25rem;
   }
 }
