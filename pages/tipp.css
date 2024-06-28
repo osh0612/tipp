@@ -1,0 +1,708 @@
+.tipp .image-3 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  width: 11.9rem;
+  height: 5.9rem;
+}
+.tipp .coming-soon {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  margin-left: 2rem;
+  font-size: 1.7rem;
+  line-height: 1.786;
+  color: #000000;
+}
+.tipp .container-2 {
+  border-radius: 0.6rem;
+  background: #83BB4D;
+  position: absolute;
+  margin-top: 1rem;
+  margin-left: 58rem;
+  display: flex;
+  padding: 0.8rem 0 0.9rem 0rem;
+  width: 15.5rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tipp .section-3 {
+  margin: 0 4.8rem 1.4rem 3.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 98.3rem;
+  box-sizing: border-box;
+}
+.tipp .section {
+  margin: 0 3.8rem 3.3rem 7.4rem;
+  width: 94.9rem;
+  height: 0.1rem;
+}
+.tipp .welcome-to-tipp {
+  box-shadow: 0rem 0rem 0.6rem 0rem rgba(255, 255, 255, 0.3);
+  margin-bottom: 1.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 600;
+  font-size: 0.9rem;
+  line-height: 2;
+  color: rgba(37, 37, 37, 0.6);
+}
+.tipp .join-tipping-revolution {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 6.3rem;
+  letter-spacing: -0.3rem;
+  line-height: 1;
+  color: #252525;
+}
+.tipp .heading-1 {
+  margin-bottom: 1.4rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.tipp .now-reward-your {
+  margin-bottom: 1.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 1.7rem;
+  line-height: 1.786;
+  color: #000000;
+}
+.tipp .get-started {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1;
+  margin-left: 2rem;
+  text-transform: uppercase;
+  color: #252525;
+}
+.tipp .button {
+  box-shadow: 0.4rem 0.4rem 0rem 0rem #161511;
+  border: 0.1rem solid #252525;
+  background: #83BB4D;
+  display: flex;
+  align-self: flex-start;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 11rem;
+  box-sizing: border-box;
+}
+.tipp .container-3 {
+  margin: 7.5rem 18.8rem 11.9rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tipp .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  width: 31.5rem;
+  margin-left: -6rem;
+  height: 44.3rem;
+}
+.tipp .section-1 {
+  margin: 0 2.1rem 1rem 2.1rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tipp .image-4 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  margin: 0 3.9rem 4.8rem 0;
+  width: 22.6rem;
+  height: 11.5rem;
+  margin-top: 10rem;
+}
+.tipp .about-us {
+  box-shadow: 0rem 0rem 0.6rem 0rem rgba(255, 255, 255, 0.3);
+  margin: 0 7.2rem 0.7rem 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 600;
+  font-size: 0.9rem;
+  line-height: 2.087;
+  color: rgba(37, 37, 37, 0.6);
+}
+.tipp .gcc-first-tipping-platform {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 3.8rem;
+  line-height: 1.351;
+  color: #252525;
+}
+.tipp .heading-11 {
+  margin: 0 1.8rem 1rem 1.8rem;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tipp .tipp-is-revolutionizing-tipping-by-providing-aseamless-digital-platform-for-customers-to-easily-show-appreciation-for-service-workers-and-leave-reviews-for-businesses {
+  margin: 0 2.4rem 2.6rem 2.6rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 400;
+  font-size: 0.8rem;
+  line-height: 1.846;
+  color: #252525;
+}
+.tipp .image-7 {
+  background: url('../assets/images/image_7.png') 50% / cover no-repeat;
+  width: 9.3rem;
+  height: 8.3rem;
+}
+.tipp .x-1024-png {
+  border-radius: 0.6rem;
+  background: #83BB4D;
+  margin-top: 0rem;
+  display: flex;
+  padding: 0.6rem 0.3rem 0.7rem 0;
+  width: 9.6rem;
+  height: 9.6rem;
+  box-sizing: border-box;
+}
+.tipp .image-8 {
+  border-radius: 1.1rem;
+  background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+  width: 6.9rem;
+  height: 8.4rem;
+}
+.tipp .x-1024-png-1 {
+  border-radius: 0.6rem;
+  background: #83BB4D;
+  margin-bottom: 0rem;
+  display: flex;
+  padding: 1.2rem 1.1rem 0rem 1.1rem;
+  width: 9.6rem;
+  height: 9.6rem;
+  box-sizing: border-box;
+}
+.tipp .image-9 {
+  background: url('../assets/images/image_9.png') 50% / cover no-repeat;
+  width: 7.8rem;
+  height: 7.8rem;
+  margin-left: 0.8rem;
+}
+.tipp .x-1024-png-2 {
+  border-radius: 0.6rem;
+  background: #83BB4D;
+  margin-bottom: 0rem;
+  display: flex;
+  padding: 1.2rem 0.5rem 0.6rem 0.5rem;
+  width: 9.6rem;
+  height: 9.6rem;
+  box-sizing: border-box;
+}
+.tipp .image-10 {
+  background: url('../assets/images/image_10.png') 50% / cover no-repeat;
+  width: 7.9rem;
+  height: 9.3rem;
+}
+.tipp .x-1024-png-3 {
+  border-radius: 0.6rem;
+  background: #83BB4D;
+  margin-bottom: 0rem;
+  display: flex;
+  margin-right: 2rem;
+  padding: 0.2rem 0.9rem 0.1rem 0.8rem;
+  width: 9.6rem;
+  height: 9.6rem;
+  box-sizing: border-box;
+}
+.tipp .container-5 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 2.8rem;
+  width: 46.7rem;
+  box-sizing: border-box;
+}
+.tipp .container {
+  margin-top: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tipp .section-2 {
+  border-radius: 0.6rem;
+  background: #FFFFFF;
+  margin: 0 0 4.6rem 0.8rem;
+  display: flex;
+  flex-direction: row;
+  padding: 8.7rem 3.2rem 14rem 3.9rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tipp .we-drive-to-increase-sales-of-businesses-by-leaving-agoogle-review {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 1.6rem;
+  letter-spacing: 0rem;
+  line-height: 1.316;
+  color: #252525;
+}
+.tipp .heading-3 {
+  margin-bottom: 0.3rem;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tipp .after-customers-pay-they-are-led-to-agoogle-review-page-where-they-can-give-areview-which-will-rank-you-higher-and-attract-more-people-to-your-business {
+  margin: 0 7.5rem 1.9rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 0;
+  margin-top: 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #252525;
+}
+.tipp .when-your-tips-reach-acertain-threshold-we-amplify-your-business-or-service-through-strategic-online-marketing-this-includes-boosts-and-curated-content-promotion {
+  margin-top: 0.4rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 0;
+  margin-left: -2rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #252525;
+}
+.tipp .container-4 {
+  margin-left: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tipp .section-5 {
+  margin: 0 2.8rem 0.9rem 2.8rem;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tipp .section-gmb-1-png {
+  box-shadow: 0.6rem 0.6rem 0rem 0rem rgba(0, 0, 0, 0.73);
+  border: 0.1rem solid #333333;
+  background: url('../assets/images/section_gmb_1_png.png');
+  width: 45.3rem;
+  height: 11rem;
+}
+.tipp .section-4 {
+  margin: 0 2.8rem 8.3rem 2.8rem;
+  display: flex;
+  align-self: flex-start;
+  width: 45.3rem;
+  height: 11rem;
+  box-sizing: border-box;
+}
+.tipp .image-5 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  margin-right: 3.5rem;
+  width: 11.9rem;
+  height: 5.9rem;
+}
+.tipp .heading-2-for-businesses-1 {
+  margin: 0.2rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 4rem;
+  right: 3000rem;
+  letter-spacing: -0.2rem;
+  line-height: 1.286;
+  color: #252525;
+}
+.tipp .button-2 {
+  box-shadow: 0.4rem 0.4rem 0rem 0rem #161511;
+  border: 0.1rem solid #252525;
+  background: #83BB4D;
+  margin-bottom: 10.2rem;
+  display: flex;
+  flex-direction: row;
+  margin-top: -2.5rem;
+  align-self: flex-start;
+  padding: 1.3rem 0 1.3rem 3.8rem;
+  width: 45.3rem;
+  box-sizing: border-box;
+}
+.tipp .section-heading-3-the-tipp-app {
+  margin: 0 0 1.2rem 28.4rem;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 3.3rem;
+  line-height: 1.1;
+  color: #252525;
+  margin-right:45rem;
+}
+.tipp .section-heading-3-the-tipp-app-5 {
+  margin: 0 0 1.8rem 31.4rem;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  margin-right: 36rem;
+  margin-left: 16rem;
+  display: inline;
+  flex-wrap: nowrap;
+  font-size: 2.5rem;
+  line-height: 1.43;
+  color: #83BB4D;
+}
+.tipp .section-heading-3-the-tipp-app-6 {
+  margin-right: 32rem;
+  margin-bottom: 3.3rem;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 4rem;
+  line-height: 0.894;
+  color: #252525;
+}
+.tipp .section-heading-3-the-tipp-app-1 {
+  margin: 0 1.9rem 6.3rem 1.9rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 2rem;
+  line-height: 1.788;
+  color: #252525;
+}
+.tipp .section-heading-3-the-tipp-app-2 {
+  margin: 0 1.7rem 7.1rem 1.7rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 2rem;
+  line-height: 1.788;
+  color: #252525;
+}
+.tipp .section-heading-3-the-tipp-app-3 {
+  margin: 0 1rem 9.5rem 1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 2rem;
+  line-height: 1.788;
+  color: #252525;
+}
+.tipp .summit {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  margin-left: 2rem;
+  font-size: 2.5rem;
+  line-height: 0.4;
+  text-transform: uppercase;
+  color: #252525;
+}
+.tipp .button-1 {
+  box-shadow: 0.4rem 0.4rem 0rem 0rem #161511;
+  border: 0.1rem solid #252525;
+  background: #83BB4D;
+  margin-left: 20rem;
+  display: flex;
+  align-self: center;
+  margin-top: 15rem;
+  padding: 1.1rem 0 1.2rem 0.1rem;
+  width: 26.4rem;
+  box-sizing: border-box;
+}
+.tipp .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tipp .image-6 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 17.7rem;
+  right: 10rem;
+
+}
+.tipp .rectangle-3 {
+  border: 0.1rem solid #000000;
+  position: absolute;
+  left: 3.8rem;
+  top: 34rem;
+  right: 30rem;
+  height: 5.2rem;
+  width: 60rem;
+}
+.tipp .rectangle-4 {
+  border: 0.1rem solid #000000;
+  position: absolute;
+  left: 3.6rem;
+  right: 2.5rem;
+  bottom: 17rem;
+  height: 5.2rem;
+  width: 60rem;
+}
+
+.tipp .rectangle-5 {
+  border: 0.1rem solid #000000;
+  position: absolute;
+  left: 3.6rem;
+  bottom: 8rem;
+  height: 5.2rem;
+  width: 45rem;
+}
+
+.tipp .section-heading-3-the-tipp-app-4 {
+  position:absolute;
+  top: 12.6rem;
+  margin-right: -150rem;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 3.3rem;
+  line-height: 1.1;
+  color: #252525;
+}
+.tipp .section-6 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0.8rem 0.8rem 0;
+  padding: 0 2.7rem;
+  width: fit-content;
+  height: 75.7rem;
+  box-sizing: border-box;
+}
+.tipp .heading-4-for-any-inquiries-reach-us-at {
+  margin-bottom: 1.7rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 900;
+  font-size: 3.2rem;
+  line-height: 1.384;
+  color: #FFFFFF;
+}
+.tipp .contacttippme-me {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 300;
+  font-size: 1.3rem;
+  text-decoration-line: underline;
+  line-height: 1.203;
+  color: #ABFF77;
+}
+.tipp .heading-4-link {
+  margin: 0 0 2rem 4.8rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.tipp .container {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 300;
+  font-size: 1.3rem;
+  line-height: 1.203;
+  color: #ABFF77;
+}
+.tipp .heading-4-link-1 {
+  margin: 0 0 1.6rem 3.9rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.tipp .dubai-united-arab-emirates {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 300;
+  font-size: 1.3rem;
+  line-height: 1.203;
+  color: #ABFF77;
+}
+.tipp .heading-4-link-2 {
+  margin-left: 5.2rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.tipp .section-7 {
+  background: #000000;
+  margin-left: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7.5rem 0 7.3rem 0;
+  width: 80rem;
+  box-sizing: border-box;
+}
+.tipp .image-61 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  width: 17.7rem;
+  height: 8.9rem;
+}
+.tipp .home {
+  margin-left: 13rem;
+  width: 16.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 300;
+  font-size: 1rem;
+  line-height: 0.619;
+  color: #FFFFFF;
+}
+.tipp .about-us-1 {
+  overflow-wrap: break-word;
+  margin-right: 1rem;
+  font-family: 'Montserrat Alternates';
+  font-weight: 300;
+  font-size: 1rem;
+  line-height: 0.619;
+  color: #FFFFFF;
+}
+.tipp .contact-us {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 300;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 0.619;
+  color: #FFFFFF;
+}
+.tipp .nav-list {
+  margin: 4rem 0 3.6rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 46.1rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tipp .section-8 {
+  background: #252525;
+  margin: 0 0 0rem 0.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2.8rem 6rem 3.1rem 2.1rem;
+  width: 80rem;
+  right: 8rem;
+  box-sizing: border-box;
+}
+.tipp .tipp-all-right-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 300;
+  font-size: 0.8rem;
+  line-height: 1.829;
+  right: 50rem;
+  color: #FFFFFF;
+}
+.tipp .section-9 {
+  background: #252525;
+  margin-left: 0.8rem;
+  display: flex;
+  padding: 0.6rem 0 1.5rem 0rem;
+  width: 80rem;
+  box-sizing: border-box;
+}
+.tipp .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 106.2rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tipp .heading-2-for-businesses {
+  position: absolute;
+  left: 2.8rem;
+  top: 108.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 4rem;
+  letter-spacing: -0.2rem;
+  line-height: 1.286;
+  color: #252525;
+}
+.tipp .we-have-an-in-app-rewarding-system-for-businesses {
+  position: absolute;
+  left: 30.5rem;
+  top: 111.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat Alternates';
+  font-weight: 500;
+  font-size: 1.6rem;
+  margin-left: -0.5rem;
+  letter-spacing: 0rem;
+  line-height: 1.31;
+  margin-bottom: 10rem;
+  color: #252525;
+}
+.tipp .image-11 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 108.7rem;
+  right: 3rem;
+  width: 23rem;
+  height: 12rem;
+  margin-top: 9rem;
+}
+.tipp {
+  background: linear-gradient(#FFFFFF, #FFFFFF), linear-gradient(#FFFFFF, #FFFFFF);
+  display: flex;
+  padding: 1.1rem 0 0rem 0;
+  width: 105.4rem;
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width: 768px) {
+ 
+  .tipp .container-2 {
+    margin-left: 10rem;
+  }
+
+  .tipp .image-3 {
+    background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+    width: 7.8rem;
+    height: 4rem;
+    margin-bottom: -3rem;
+  }
+  .tipp .join-tipping-revolution {
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    font-size: 5rem;
+    letter-spacing: -0.1rem;
+    line-height: 1;
+    color: #252525;
+  }
+  
+  .tipp .now-reward-your {
+  
+    font-size: 1.7rem;
+ 
+  }
+
+}
