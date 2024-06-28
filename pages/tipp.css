@@ -677,32 +677,35 @@
   box-sizing: border-box;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
  
   .tipp .container-2 {
     margin-left: 10rem;
+    width: 12rem;
+
+  }
+  .tipp .coming-soon {
+    font-size: 1.2rem;
   }
 
   .tipp .image-3 {
-    background: url('../assets/images/image_6.png') 50% / cover no-repeat;
-    width: 7.8rem;
-    height: 4rem;
-    margin-bottom: -3rem;
+    margin-right: 5rem;
+    margin: 0 1.1rem 0.3rem 0;
+    width: 7.2rem;
+    height: 3.5rem;
   }
   .tipp .join-tipping-revolution {
-    overflow-wrap: break-word;
-    font-family: 'DM Sans';
-    font-weight: 500;
-    font-size: 5rem;
-    letter-spacing: -0.1rem;
-    line-height: 1;
-    color: #252525;
+    font-size: 4.5rem;
   }
   
   .tipp .now-reward-your {
-  
-    font-size: 1.7rem;
- 
+    font-size: 1rem;
   }
-
+  .tipp .image-1 {
+    background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+    width: 22rem;
+    margin-left: -39rem;
+    height: 29rem;
+    margin-top: 30rem;
+  }
 }
