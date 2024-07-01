@@ -81,6 +81,10 @@ wrapper{
   width: 98.3rem;
   box-sizing: border-box;
 }
+body{
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+  background-color: #FFFFFF;
+}
 .tipp .section {
   margin: 0 3.8rem 3.3rem 7.4rem;
   width: 94.9rem;
@@ -88,8 +92,8 @@ wrapper{
 }
 .tipp .welcome-to-tipp {
   box-shadow: 0rem 0rem 0.6rem 0rem rgba(255, 255, 255, 0.3);
-  margin-bottom: 1.3rem;
-  display: inline-block;
+  margin-bottom: 3rem;
+  display: block;
   align-self: flex-start;
   overflow-wrap: break-word;
   font-family: 'Montserrat Alternates';
@@ -351,6 +355,14 @@ wrapper{
   width: 45.3rem;
   height: 11rem;
 }
+.tipp .go2{
+  display: none;
+  box-shadow: 0.6rem 0.6rem 0rem 0rem rgba(0, 0, 0, 0.73);
+  border: 0.1rem solid #333333;
+  background: url('../assets/images/google2.JPG');
+  width: 45.3rem;
+  height: 11rem;
+}
 .tipp .section-4 {
   margin: 0 2.8rem 8.3rem 2.8rem;
   display: flex;
@@ -466,8 +478,8 @@ wrapper{
   overflow-wrap: break-word;
   font-family: 'Poppins';
   font-weight: 500;
-  display: inline-block;
-  margin-top: -8rem;
+  display: block;
+  margin-top: -2rem;
   margin-left: 28rem;
   font-size: 2.5rem;
   line-height: 0.4;
@@ -500,6 +512,7 @@ wrapper{
 
 }
 .tipp .rectangle-3 {
+  display: block;
   border: 0.1rem solid #000000;
   position: absolute;
   left: 3.8rem;
@@ -509,16 +522,18 @@ wrapper{
   width: 60rem;
 }
 .tipp .rectangle-4 {
+  display: block;
   border: 0.1rem solid #000000;
   position: absolute;
   left: 3.6rem;
   right: 2.5rem;
-  bottom: 17rem;
+  bottom: 19rem;
   height: 5.2rem;
   width: 60rem;
 }
 
 .tipp .rectangle-5 {
+  display: block;
   border: 0.1rem solid #000000;
   position: absolute;
   left: 3.6rem;
@@ -564,7 +579,7 @@ wrapper{
   font-size: 1.3rem;
   text-decoration-line: underline;
   line-height: 1.203;
-  color: #ABFF77;
+  color: #83BB4D;
 }
 .tipp .heading-4-link {
   margin: 0 0 2rem 4.8rem;
@@ -577,7 +592,7 @@ wrapper{
   font-weight: 300;
   font-size: 1.3rem;
   line-height: 1.203;
-  color: #ABFF77;
+  color: #83BB4D;
 }
 .tipp .heading-4-link-1 {
   margin: 0 0 1.6rem 3.9rem;
@@ -590,7 +605,7 @@ wrapper{
   font-weight: 300;
   font-size: 1.3rem;
   line-height: 1.203;
-  color: #ABFF77;
+  color: #83BB4D;
 }
 .tipp .heading-4-link-2 {
   margin-left: 5.2rem;
@@ -688,6 +703,8 @@ wrapper{
   box-sizing: border-box;
 }
 .tipp .heading-2-for-businesses {
+  display: block;
+  margin-top: 5rem;
   position: absolute;
   left: 2.8rem;
   top: 108.4rem;
@@ -759,86 +776,124 @@ wrapper{
   }
 
   .tipp .now-reward-your {
-    font-size: 1.2rem;
+    font-size: 2rem;
   }
   .tipp .image-1 {
     background: url('../assets/images/image_1.png') 50% / cover no-repeat;
     width: 15rem;
     margin-left: -43rem;
     height: 22rem;
-    margin-top: 33rem;
+    margin-top: 36rem;
   }
   .tipp .about-us {
     
     display: inline-block;
-    margin-left: -50rem;
+    margin-left: -10rem;
   }
   .tipp .gcc-first-tipping-platform {
     font-size: 2.5rem;
   }
   .tipp .heading-11 {
-    display: inline-block;
-    margin-left: -16rem;
+    display: block;
+    margin-left: -19rem;
 
   }
   .tipp .tipp-is-revolutionizing-tipping-by-providing-aseamless-digital-platform-for-customers-to-easily-show-appreciation-for-service-workers-and-leave-reviews-for-businesses {
     display: inline-block;
     overflow-wrap: break-word;
     font-size: 0.8rem;
-    margin-left: -16rem;
+    margin-left: -19rem;
     line-height: 2;
   }
-  .tipp .image-7 {
-    background: url('../assets/images/image_7.png') 50% / cover no-repeat;
-    width: 9.3rem;
-    height: 8.3rem;
-  }
+ 
   .tipp .x-1024-png {
     display: inline-block;
-    margin-left: -17rem;
+    margin-left: -17em;
   }
-  .tipp .image-8 {
-    border-radius: 1.1rem;
-    background: url('../assets/images/image_8.png') 50% / cover no-repeat;
-    width: 6.9rem;
-    height: 8.4rem;
-  }
-  .tipp .x-1024-png-1 {
-    border-radius: 0.6rem;
-    background: #83BB4D;
-    margin-bottom: 0rem;
-    display: flex;
-    padding: 1.2rem 1.1rem 0rem 1.1rem;
-    width: 9.6rem;
-    height: 9.6rem;
-    box-sizing: border-box;
-  }
-  .tipp .image-9 {
-    background: url('../assets/images/image_9.png') 50% / cover no-repeat;
-    width: 7.8rem;
-    height: 7.8rem;
-    margin-left: 0.8rem;
-  }
+  
+
   .tipp .x-1024-png-2 {
-    border-radius: 0.6rem;
-    background: #83BB4D;
-    margin-bottom: 0rem;
-    display: flex;
-    padding: 1.2rem 0.5rem 0.6rem 0.5rem;
-    width: 9.6rem;
-    height: 9.6rem;
-    box-sizing: border-box;
+    display: block;
+    margin-top: 11rem;
+    margin-left: -24.8rem;
+   
   }
-  .tipp .image-10 {
-    background: url('../assets/images/image_10.png') 50% / cover no-repeat;
-    width: 7.9rem;
-    height: 9.3rem;
+  .tipp .x-1024-png-3 {
+    display: block;
+    margin-top: 11rem;
   }
+
   .tipp .image-4 {
-    display: inline-block;
+    display: block;
     width: 9rem;
     height: 4.5rem;
-    margin-top: -5rem;
+    margin-top: -8rem;
     margin-right: 4rem;
   }
+  .tipp .section-7 {
+    width: 35rem;
 }
+.tipp .heading-4-for-any-inquiries-reach-us-at {
+  font-size: 1.5rem;
+  display: block;
+  margin-right: 5rem;
+}
+.tipp .contacttippme-me {
+  margin-right: 10rem;
+  display: block;
+}
+.tipp .container {
+  margin-right: 10rem;
+  display: block;
+  
+}
+
+.tipp .dubai-united-arab-emirates {
+  margin-right: 10rem;
+  display: block;
+}
+.tipp .heading-2-for-businesses {
+  display: block;
+  margin-top: 15rem;
+  font-size: 3rem;
+}
+.tipp .we-have-an-in-app-rewarding-system-for-businesses {
+  display: block;
+  margin-left: -27rem;
+  margin-top: 40rem;
+}
+.tipp .image-11 {
+  width: 12rem;
+  display: block;
+  margin-top: 22rem;
+  margin-right: 6rem;
+  height: 6rem;
+}
+.tipp .when-your-tips-reach-acertain-threshold-we-amplify-your-business-or-service-through-strategic-online-marketing-this-includes-boosts-and-curated-content-promotion {
+  display: block;
+  margin-left: -29rem;
+  margin-top: 18rem;
+}
+.tipp .section-gmb-1-png {
+  display: flex;
+  width: 20rem;
+
+}
+.tipp .image-5 {
+    margin-left: -3rem;
+    width: 9rem;
+    height: 4.5rem;
+}
+.tipp .button-2 {
+  width: fit-content;
+  margin-top: 2rem;
+}
+.tipp .heading-2-for-businesses-1 {
+  margin-top: 1rem;
+  margin-right: 1rem;
+  font-size: 2rem;
+}
+
+
+}
+
