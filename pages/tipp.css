@@ -613,6 +613,8 @@
   overflow-wrap: break-word;
   font-family: 'Montserrat Alternates';
   font-weight: 300;
+  display: inline-block;
+  margin-left: 3rem;
   font-size: 0.8rem;
   line-height: 1.829;
   right: 50rem;
@@ -680,8 +682,8 @@
 @media only screen and (max-width: 600px) {
  
   .tipp .container-2 {
-    margin-left: 0.1rem;
-    margin-top: 7rem;
+    margin-left: 9rem;
+    margin-top: 1rem;
     width: 10rem;
 
   }
@@ -690,14 +692,13 @@
   }
 
   .tipp .image-3 {
-    margin-bottom: auto;
-    margin-right: 5rem;
-    margin: 0 1.1rem 0.3rem 0;
+    margin-left: -3rem;
     width: 9rem;
     height: 4.5rem;
   }
   .tipp .join-tipping-revolution {
-    font-size: 3rem;
+    font-size: 4rem;
+    margin-bottom: 0rem;
   }
   .tipp .welcome-to-tipp {
     margin-bottom: 0rem;
@@ -714,4 +715,85 @@
     height: 22rem;
     margin-top: 25rem;
   }
+  .tipp .about-us {
+    
+    display: inline-block;
+    margin-left: -50rem;
+  }
+  .tipp .gcc-first-tipping-platform {
+    font-size: 2.5rem;
+  }
+  .tipp .heading-11 {
+    display: inline-block;
+    margin-left: -16rem;
+
+  }
+  .tipp .tipp-is-revolutionizing-tipping-by-providing-aseamless-digital-platform-for-customers-to-easily-show-appreciation-for-service-workers-and-leave-reviews-for-businesses {
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-size: 0.8rem;
+    margin-left: -16rem;
+    line-height: 2;
+  }
+  .tipp .image-7 {
+    background: url('../assets/images/image_7.png') 50% / cover no-repeat;
+    width: 9.3rem;
+    height: 8.3rem;
+  }
+  .tipp .x-1024-png {
+    border-radius: 0.6rem;
+    background: #83BB4D;
+    margin-top: 0rem;
+    display: flex;
+    padding: 0.6rem 0.3rem 0.7rem 0;
+    width: 9.6rem;
+    height: 9.6rem;
+    box-sizing: border-box;
+  }
+  .tipp .image-8 {
+    border-radius: 1.1rem;
+    background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+    width: 6.9rem;
+    height: 8.4rem;
+  }
+  .tipp .x-1024-png-1 {
+    border-radius: 0.6rem;
+    background: #83BB4D;
+    margin-bottom: 0rem;
+    display: flex;
+    padding: 1.2rem 1.1rem 0rem 1.1rem;
+    width: 9.6rem;
+    height: 9.6rem;
+    box-sizing: border-box;
+  }
+  .tipp .image-9 {
+    background: url('../assets/images/image_9.png') 50% / cover no-repeat;
+    width: 7.8rem;
+    height: 7.8rem;
+    margin-left: 0.8rem;
+  }
+  .tipp .x-1024-png-2 {
+    border-radius: 0.6rem;
+    background: #83BB4D;
+    margin-bottom: 0rem;
+    display: flex;
+    padding: 1.2rem 0.5rem 0.6rem 0.5rem;
+    width: 9.6rem;
+    height: 9.6rem;
+    box-sizing: border-box;
+  }
+  .tipp .image-10 {
+    background: url('../assets/images/image_10.png') 50% / cover no-repeat;
+    width: 7.9rem;
+    height: 9.3rem;
+  }
+  .tipp .image-4 {
+    display: inline-block;
+    width: 9rem;
+    height: 4.5rem;
+    margin-top: -5rem;
+    margin-right: 4rem;
+  }
 }
+
+
