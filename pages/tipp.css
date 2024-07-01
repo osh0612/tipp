@@ -3,6 +3,55 @@
   width: 11.9rem;
   height: 5.9rem;
 }
+wrapper{
+  display: flex;
+}
+
+.wrapper .dynamic-txts{
+  height: 90px;
+  line-height: 90px;
+  overflow: hidden;
+}
+.dynamic-txts li{
+  margin-left: -2.8rem;
+  margin-top: 0rem;
+  list-style: none;
+  color: #83BB4D;
+  font-family: 'Montserrat Alternates';
+  font-size: 65px;
+  font-weight: 500;
+  position: relative;
+  top: 0;
+  animation: slide 12s steps(4) infinite;
+}
+@keyframes slide {
+  100%{
+    top: -360px;
+  }
+}
+.dynamic-txts li span{
+  position: relative;
+  margin: 5px 0;
+  line-height: 50px;
+}
+.dynamic-txts li span::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #FFFFFF;
+  border-left: 4px solid #83BB4D;
+  animation: typing 3s steps(10) infinite;
+}
+@keyframes typing {
+  40%, 60%{
+    left: calc(100% + 30px);
+  }
+  100%{
+    left: 0;
+  }
+}
 .tipp .coming-soon {
   overflow-wrap: break-word;
   font-family: 'Montserrat Alternates';
@@ -417,7 +466,9 @@
   overflow-wrap: break-word;
   font-family: 'Poppins';
   font-weight: 500;
-  margin-left: 2rem;
+  display: inline-block;
+  margin-top: -8rem;
+  margin-left: 28rem;
   font-size: 2.5rem;
   line-height: 0.4;
   text-transform: uppercase;
@@ -430,7 +481,7 @@
   margin-left: 20rem;
   display: flex;
   align-self: center;
-  margin-top: 15rem;
+  margin-top: 20rem;
   padding: 1.1rem 0 1.2rem 0.1rem;
   width: 26.4rem;
   box-sizing: border-box;
@@ -657,9 +708,10 @@
   font-weight: 500;
   font-size: 1.6rem;
   margin-left: -0.5rem;
+  display: inline-block;
   letter-spacing: 0rem;
   line-height: 1.31;
-  margin-bottom: 10rem;
+  margin-top: 11.5rem;
   color: #252525;
 }
 .tipp .image-11 {
@@ -684,11 +736,13 @@
   .tipp .container-2 {
     margin-left: 9rem;
     margin-top: 1rem;
-    width: 10rem;
+    width: 9rem;
 
   }
   .tipp .coming-soon {
     font-size: 0.8rem;
+    display: inline-block;
+    margin-right: 1rem;
   }
 
   .tipp .image-3 {
@@ -704,16 +758,15 @@
     margin-bottom: 0rem;
   }
 
-  
   .tipp .now-reward-your {
-    font-size: 0.7rem;
+    font-size: 1.2rem;
   }
   .tipp .image-1 {
     background: url('../assets/images/image_1.png') 50% / cover no-repeat;
     width: 15rem;
-    margin-left: -31.7rem;
+    margin-left: -43rem;
     height: 22rem;
-    margin-top: 25rem;
+    margin-top: 33rem;
   }
   .tipp .about-us {
     
@@ -741,14 +794,8 @@
     height: 8.3rem;
   }
   .tipp .x-1024-png {
-    border-radius: 0.6rem;
-    background: #83BB4D;
-    margin-top: 0rem;
-    display: flex;
-    padding: 0.6rem 0.3rem 0.7rem 0;
-    width: 9.6rem;
-    height: 9.6rem;
-    box-sizing: border-box;
+    display: inline-block;
+    margin-left: -17rem;
   }
   .tipp .image-8 {
     border-radius: 1.1rem;
@@ -795,5 +842,3 @@
     margin-right: 4rem;
   }
 }
-
-
