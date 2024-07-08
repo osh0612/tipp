@@ -359,7 +359,7 @@ body{
   display: none;
   box-shadow: 0.6rem 0.6rem 0rem 0rem rgba(0, 0, 0, 0.73);
   border: 0.1rem solid #333333;
-  background: url('../assets/images/google2.JPG');
+  background: url('../assets/images/go1.JPG');
   width: 45.3rem;
   height: 11rem;
 }
@@ -573,7 +573,6 @@ body{
   color: #FFFFFF;
 }
 .tipp .contacttippme-me {
-  overflow-wrap: break-word;
   font-family: 'Montserrat Alternates';
   font-weight: 300;
   font-size: 1.3rem;
@@ -585,6 +584,14 @@ body{
   margin: 0 0 2rem 4.8rem;
   display: flex;
   box-sizing: border-box;
+}
+.tipp .heading-4-link-3{
+  font-family: 'Montserrat Alternates';
+  font-weight: 300;
+  font-size: 1.3rem;
+  text-decoration-line: underline;
+  line-height: 1.203;
+  color: #83BB4D;
 }
 .tipp .container {
   overflow-wrap: break-word;
@@ -724,11 +731,11 @@ body{
   font-family: 'Montserrat Alternates';
   font-weight: 500;
   font-size: 1.6rem;
-  margin-left: -0.5rem;
+  margin-left: -3rem;
   display: inline-block;
   letter-spacing: 0rem;
   line-height: 1.31;
-  margin-top: 11.5rem;
+  margin-top: 13rem;
   color: #252525;
 }
 .tipp .image-11 {
@@ -792,23 +799,25 @@ body{
   }
   .tipp .gcc-first-tipping-platform {
     font-size: 2.5rem;
+    display: block;
+    margin-left: -15rem;
   }
   .tipp .heading-11 {
     display: block;
-    margin-left: -19rem;
+    margin-left: -2rem;
 
   }
   .tipp .tipp-is-revolutionizing-tipping-by-providing-aseamless-digital-platform-for-customers-to-easily-show-appreciation-for-service-workers-and-leave-reviews-for-businesses {
     display: inline-block;
     overflow-wrap: break-word;
-    font-size: 0.8rem;
-    margin-left: -19rem;
+    font-size: 0.7rem;
+    margin-left: -17rem;
     line-height: 2;
   }
  
   .tipp .x-1024-png {
     display: inline-block;
-    margin-left: -17em;
+    margin-left: -18rem;
   }
   
 
@@ -834,22 +843,22 @@ body{
     width: 35rem;
 }
 .tipp .heading-4-for-any-inquiries-reach-us-at {
-  font-size: 1.5rem;
+  font-size: 1rem;
   display: block;
-  margin-right: 5rem;
+  margin-right: 10rem;
 }
 .tipp .contacttippme-me {
-  margin-right: 10rem;
+  margin-right: 18rem;
   display: block;
 }
 .tipp .container {
-  margin-right: 10rem;
+  margin-right: 16rem;
   display: block;
   
 }
 
 .tipp .dubai-united-arab-emirates {
-  margin-right: 10rem;
+  margin-right: 15rem;
   display: block;
 }
 .tipp .heading-2-for-businesses {
@@ -875,7 +884,7 @@ body{
   margin-top: 18rem;
 }
 .tipp .section-gmb-1-png {
-  display: flex;
+  display: none;
   width: 20rem;
 
 }
@@ -885,15 +894,75 @@ body{
     height: 4.5rem;
 }
 .tipp .button-2 {
-  width: fit-content;
-  margin-top: 2rem;
+  display: block;
+  width: 19rem;
+  margin-top: -4rem;
+  height: 7rem;
+}
+.tipp .go2{
+  display: block;
+  width: 20rem;
+  height: 8.9rem;
+  margin-bottom: 10rem;
 }
 .tipp .heading-2-for-businesses-1 {
-  margin-top: 1rem;
-  margin-right: 1rem;
+  margin-top: -3rem;
+  margin-left: 8rem;
+  display: block;
   font-size: 2rem;
 }
-
-
+.tipp .section-heading-3-the-tipp-app {
+  display: block;
+  font-size: 2rem;
+  margin-left: 3rem;
+}
+.tipp .section-heading-3-the-tipp-app-5 {
+  display: block;
+  font-size: 1.5rem;
+  margin-left: -4rem;
+}
+.tipp .section-heading-3-the-tipp-app-6 {
+  display: block;
+  font-size: 1.5rem;
+  margin-right: 42rem;
+}
+.tipp .rectangle-3 {
+  display: block;
+  height: 4rem;
+  width: 19rem;
+  margin-top: -11rem;
+  margin-left: -5rem;
+}
+.tipp .rectangle-4 {
+  display: block;
+  height: 4rem;
+  width:19rem;
+  margin-bottom: -5rem;
+  margin-left: -5rem;
 }
 
+.tipp .rectangle-5 {
+  display: block;
+  height: 4rem;
+  width: 19rem;
+  margin-bottom: -2rem;
+  margin-left: -5rem;
+
+}
+.tipp .button-1 {
+  display: block;
+  margin-left: -2rem;
+  margin-top: 8rem;
+  width: 20rem;
+}
+.tipp .summit {
+  display: block;
+  margin-left: 4rem;
+}
+.tipp .section-8 {
+  width: 35rem;
+}
+.tipp .nav-list {
+ display: none;
+}
+}
